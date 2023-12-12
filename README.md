@@ -136,3 +136,11 @@ A pivot table was created having the fields ‘month’ and ‘unique identifier
 The image above is the clustered column chart created to show number of cases by distribution of cases over months.
 
 ## INSIGHTS AND RECOMMENDATIONS
+
+Analysing the homicide cases in the United state of America provides valuable insights into the demographics, geographic distribution, case disposition and reported date, which offers a deep understanding of the complex dynamics surrounding these tragic incidents.
+
+Examining the states with higher number of cases, such as California, Texas, Illinois, Pennsylvania, Missouri, Maryland, Michigan, Tennessee, Florida and Louisiana in the U.S calls for tailored intervention to address challenges faced by these states. 
+
+The U.S should increase the presence of law enforcement officers in communities and encourage positive relationships with residents. This can foster trust, improve communication, and provide opportunities for early intervention in potential conflicts.
+
+The U.S should also enhance collaboration between law enforcement agencies and improve data collection methods to gain a better understanding of patterns and trends in homicides. This can aid in the development of targeted prevention strategies and resource allocation.
