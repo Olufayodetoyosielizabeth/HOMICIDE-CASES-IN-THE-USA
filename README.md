@@ -144,3 +144,9 @@ Examining the states with higher number of cases, such as California, Texas, Ill
 The U.S should increase the presence of law enforcement officers in communities and encourage positive relationships with residents. This can foster trust, improve communication, and provide opportunities for early intervention in potential conflicts.
 
 The U.S should also enhance collaboration between law enforcement agencies and improve data collection methods to gain a better understanding of patterns and trends in homicides. This can aid in the development of targeted prevention strategies and resource allocation.
+
+
+## VISUALIZATION
+
+![HOMICIDE CASES CHART  OLUFAYODE TOYOSI ELIZABETH ASSIGNMENT](https://github.com/Elizabhettie/Homicide-Cases-in-the-USA/assets/153202306/2c82a15c-9ece-4dfd-9b20-fbb1cf5e3ad0)
+
