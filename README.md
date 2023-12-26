@@ -1,4 +1,4 @@
-# Homicide-Cases-in-the-USA
+# HOMICIDE-CASES-IN-THE-USA
 
 ## My first Data Analysis Project at [Edge Line Careers](https://www.linkedin.com/company/edgeline-careers/)
 
